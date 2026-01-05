@@ -1,0 +1,54 @@
+MIT License
+
+Copyright (c) 2024 Personalized Treatment Recommendation System
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Notes
+
+This project is designed for educational and research purposes in the field of 
+healthcare data science and machine learning. It is not intended for actual 
+clinical decision-making without proper validation and regulatory approval.
+
+### Healthcare Data Disclaimer
+
+This software is provided for educational and research purposes only. It should 
+not be used for actual medical diagnosis, treatment recommendations, or clinical 
+decision-making without:
+
+1. Proper validation with real clinical data
+2. Review by qualified healthcare professionals
+3. Compliance with relevant healthcare regulations (HIPAA, FDA, etc.)
+4. Appropriate clinical testing and validation
+
+### Data Privacy and Security
+
+Users of this software are responsible for:
+- Ensuring compliance with applicable data privacy laws
+- Implementing appropriate security measures for healthcare data
+- Obtaining proper consent for data usage
+- Following institutional review board (IRB) requirements where applicable
+
+### No Medical Advice
+
+This software does not provide medical advice. Any output from this system 
+should be reviewed by qualified healthcare professionals before any clinical 
+application.
